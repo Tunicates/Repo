@@ -1,1 +1,9 @@
-This is repository folder for Phallusia_mammillata
+This is repository folder for Phallusia_mammillata.
+
+Files:
+  Phallusia_mammillata_insd_fa
+  	Fasta formatted sequences in International Nucleotide Sequence Databanks
+	(INSD), extracted by keyword search for this speices.
+
+  README
+  	This file.

@@ -1,1 +1,17 @@
-This is repository folder for Halocynthia_roretzi
+This is repository folder for Halocynthia_roretzi.
+
+Files:
+  README
+  	This file.
+
+  Halocynthia_roretzi_insd_fa
+  	Fasta formatted sequences in International Nucleotide Sequence Databanks
+	(INSD), extracted by keyword search for this speices.
+
+  ish_Magest_Hr.zip
+  magest_clone.zip
+  magest_contig.zip
+  magest_est.zip
+  magest_images.tar.gz
+  	MAGEST data original from
+	ftp://ftp.biosciencedbc.jp/archive/magest/LATEST/README.html

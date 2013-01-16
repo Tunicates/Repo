@@ -12,7 +12,7 @@ Files:
   	Joined Scaffold of genome sequence fragments.
 
 
-Gene models
+Gene models ( http://ghost.zool.kyoto-u.ac.jp/download_kh.html )
   KH gene models (ver.2012)
 	fasta file (95,315,051byte, 54,733sequences), last update 2011.8 -->KH.KHGene.2012.fasta.zip (Compressed, 14,991,029bytes)
 	gff file (mapping information; 67,876,266bytes), last update 2012.5 -->KH.KHGene.2012.gff3.zip (Compressed, 11,275,854bytes)

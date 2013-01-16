@@ -1,1 +1,22 @@
-This is repository folder for Ciona_savignyi
+This is repository folder for Ciona_savignyi.
+
+Files:
+  Ciona_savignyi_insd_fa
+  	Fasta formatted sequences in International Nucleotide Sequence Databanks
+	(INSD), extracted by keyword search for this speices.
+
+  README
+  	This file.
+
+  CsEST20060102TPH.kyoto.zip
+  CsEST20060224.kyoto.zip
+  csEST20050915.kyoto.zip
+  	Kyoto EST data.
+
+  Ciona_savignyi.CSAV2.0.63.cdna.abinitio.fa.gz
+  Ciona_savignyi.CSAV2.0.63.cdna.all.fa.gz
+  Ciona_savignyi.CSAV2.0.63.dna.nonchromosomal.fa.gz
+  Ciona_savignyi.CSAV2.0.63.dna.toplevel.fa.gz
+  Ciona_savignyi.CSAV2.0.63.dna_rm.nonchromosomal.fa.gz
+  Ciona_savignyi.CSAV2.0.63.dna_rm.toplevel.fa.gz
+	Ensembl sequences.
