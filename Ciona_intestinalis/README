@@ -1,1 +1,28 @@
-This is repository folder for Ciona_intestinalis
+This is repository folder for Ciona_intestinalis.
+
+Files:
+  Ciona_intestinalis_insd.fa
+  	Fasta formatted sequences in International Nucleotide Sequence Databanks
+	(INSD), extracted by keyword search for this speices.
+
+  README
+  	This file.
+
+  JoinedScaffold.zip
+  	Joined Scaffold of genome sequence fragments.
+
+
+Gene models
+  KH gene models (ver.2012)
+	fasta file (95,315,051byte, 54,733sequences), last update 2011.8 -->KH.KHGene.2012.fasta.zip (Compressed, 14,991,029bytes)
+	gff file (mapping information; 67,876,266bytes), last update 2012.5 -->KH.KHGene.2012.gff3.zip (Compressed, 11,275,854bytes)
+  Translation
+	fasta file (entire ORFs; 23,758,966bytes), last update 2011.8 -->KH.KHGene.2012.Longest.protein.zip (Compressed, 5,230,945bytes)
+	fasta file (from the first Methionine; 22,659,887bytes), last update 2011.8 -->KH.KHGene.2012.Met.protein.zip (Compressed, 4,795,187bytes)
+    KH gene models (ver.2010)
+	fasta file (89,129,272byte, 51,576sequences), last update 2010.5 -->KH2010.KHGene.fasta.zip (Compressed, 14,829,183bytes)
+	gff file (mapping information; 47,981,891bytes), last update 2010.5 -->KH2010.1.KHGene.gff.zip (Compressed, 9,832,588bytes)
+    Translation
+	fasta file (entire ORFs; 22,181,767bytes), last update 2010.5 -->KH2010.KHGene_LONGEST.protein.zip (Compressed, 5,202,109bytes)
+	fasta file (from the first Methionine; 21,176,647bytes), last update 2010.5 -->KH2010.KHGene_fromMet.protein.zip (Compressed, 4,776,174bytes)
+
