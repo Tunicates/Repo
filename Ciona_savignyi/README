@@ -8,15 +8,24 @@ Files:
   README
   	This file.
 
+
+Kyoto EST data.
   CsEST20060102TPH.kyoto.zip
   CsEST20060224.kyoto.zip
   csEST20050915.kyoto.zip
-  	Kyoto EST data.
 
+Ensembl sequences.
   Ciona_savignyi.CSAV2.0.63.cdna.abinitio.fa.gz
   Ciona_savignyi.CSAV2.0.63.cdna.all.fa.gz
   Ciona_savignyi.CSAV2.0.63.dna.nonchromosomal.fa.gz
   Ciona_savignyi.CSAV2.0.63.dna.toplevel.fa.gz
   Ciona_savignyi.CSAV2.0.63.dna_rm.nonchromosomal.fa.gz
   Ciona_savignyi.CSAV2.0.63.dna_rm.toplevel.fa.gz
-	Ensembl sequences.
+
+
+BROAD INSTITUTE
+  http://www.broadinstitute.org/annotation/ciona/
+  paired_scaffolds.fa.gz
+  paired_scaffold_remainders.fa.gz
+  separate_scaffolds.fa.gz
+
